@@ -1,0 +1,2 @@
+# thesauRus
+getting synonyms
